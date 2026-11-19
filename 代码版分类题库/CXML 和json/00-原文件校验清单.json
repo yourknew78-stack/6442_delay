@@ -1,0 +1,451 @@
+{
+  "question_count": 9,
+  "copied_file_count": 89,
+  "files": [
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q4/Element.pdf",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/01_2025-2_Q4_地点人口与层级XML读取/Element.pdf",
+      "sha256": "14ad3a1417f7408d8e224806a465ddcea20262609f5df7aa900a2f06ad7a2b1c"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q4/Location.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/01_2025-2_Q4_地点人口与层级XML读取/Location.java",
+      "sha256": "18db9680f1f2400f687cf4f6321ef44662e13177e632c894853ea98473a86a15"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q4/LocationLoader.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/01_2025-2_Q4_地点人口与层级XML读取/LocationLoader.java",
+      "sha256": "a81a36c8ac4150c90b69bd43ee4e8b3d3500703145422facc53c19409cb02faa"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q4/Node.pdf",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/01_2025-2_Q4_地点人口与层级XML读取/Node.pdf",
+      "sha256": "371dd3c8cb604553d6f24945dc3aaa5ef765ef70d5754c66ea26fa3d9b9d3964"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q4/Q4README.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/01_2025-2_Q4_地点人口与层级XML读取/Q4README.md",
+      "sha256": "7a8d022a784e05ffe4cf60df696794d82c7cd960fedf51554a0f0cef456e2af9"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q4/Q4Test.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/01_2025-2_Q4_地点人口与层级XML读取/Q4Test.java",
+      "sha256": "54fdab4e15cd9e0dfa8c289d283809d938335967fd8da70a09c51d14234871e8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q4/data/a_flat_easy.xml",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/01_2025-2_Q4_地点人口与层级XML读取/data/a_flat_easy.xml",
+      "sha256": "7f0675c868b61c15b4416d4bf29581429ee4769b08f0d8bbba2b6386282994a8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q4/data/b_tree_basic.xml",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/01_2025-2_Q4_地点人口与层级XML读取/data/b_tree_basic.xml",
+      "sha256": "f4a04aa2b2e566902cd212c94989ef34f0d756a3cd314cab5beb80590d1dcbe6"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q4/Q4Answers.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/02_2024-2_Q4_数据持久化主题讨论/Q4Answers.md",
+      "sha256": "cb2e617c176905d52263557488112defa9a2c200ef917bae6e16afb8bd962edd"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q4/Q4README.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/02_2024-2_Q4_数据持久化主题讨论/Q4README.md",
+      "sha256": "6eae2f7b1e934c8bf549095d51f1f7599145d6f4bb3696e8267eda53aeb82ea0"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/QueryParser.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/QueryParser.java",
+      "sha256": "8ef566682c52c8821e0b959b181e5198182ad1fc035dfb3f941ae5e0e8ac9c5e"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/QueryToken/QToken.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/QueryToken/QToken.java",
+      "sha256": "8a99635696c728fa24732c92804fcaaedd6e07008acdc5f81a24c8692402d872"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/QueryToken/QTokenType.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/QueryToken/QTokenType.java",
+      "sha256": "308eb9eb3cf4277b0a36df78dfeda7191bcebc3bd65a1e86418ed8f69dac4f50"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/QueryTokenizer.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/QueryTokenizer.java",
+      "sha256": "9bbe56329a82c3d017c62833c63d96fddf805b066a6a8f7af91a298315d2dd60"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/Triples/Triple.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/Triples/Triple.java",
+      "sha256": "b8092114b4bed1b6a28234d8c5708e5fb4055e750e2084f8e0163d45fe5b48bf"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/Triples/TripleComponent.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/Triples/TripleComponent.java",
+      "sha256": "80c3dbd8ac3f4ae4f689ab187a70de7c397e31945f1abd0e3344f2973055cc75"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/Triples/TripleReader.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/Triples/TripleReader.java",
+      "sha256": "63619ea6e4969e1a30bcacbe23f7b4b2cebc0725a448df49ff2b5fadfd5d82d4"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/assets/graphdb2.png",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/assets/graphdb2.png",
+      "sha256": "c70ca0a6e14830d873551d0fc80ed6d2d16212baa7b3a892652f4bac0868943b"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/assets/triple.png",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/assets/triple.png",
+      "sha256": "4720f09a3a76d076595fba1ee61287ba6dd3ad2d79c4c905eb63566513be7c3e"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/assets/triples0.xml",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/assets/triples0.xml",
+      "sha256": "017f3d388ca2c98be388986deaac141f331d6f816cb4ab3a313ca80471630032"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/assets/triples1.xml",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/assets/triples1.xml",
+      "sha256": "6064b17ce0c3fc9101149f4de60fed62bd6902747753e71b27d5e37c0a8fc8b6"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q1/readme_Q1.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Q1/readme_Q1.md",
+      "sha256": "73182f4331e6843a9cbea9c988aa1aa7c5dabcd9f2f645bcd4d5ebb557a2ee25"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Tests/QTokenizerTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Tests/QTokenizerTest.java",
+      "sha256": "3f1b2cc3515d02a9f6461ca640e959657caba17315aaf3ae8d4166c42cd5381f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Tests/QueryTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Tests/QueryTest.java",
+      "sha256": "bde4ebd1e8dc1187cfbc02f950404dbe36c6bd9b3730dda5b7c245167c94a266"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Tests/TripleReaderTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/03_2023-2_Q1_知识图谱三元组XML读取/Tests/TripleReaderTest.java",
+      "sha256": "e6277c8604d2051ef134cebd4941170c7e8515c71d30cacbc980a0d074865a8e"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q3/UML_Example_PenguinologistClass.png",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/04_2023-2_Q3_JSON_XML_CSV多格式读取设计/UML_Example_PenguinologistClass.png",
+      "sha256": "8d036818c8f19767010844120ab90f07ecebaa15d56023638ba8a26f947ab963"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q3/UML_Q3.png",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/04_2023-2_Q3_JSON_XML_CSV多格式读取设计/UML_Q3.png",
+      "sha256": "9ec5a05a1d076bde59580fdfca6c52f70b55e6e9aac973d071ee2046b5cab9f7"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q3/answer_Q3.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/04_2023-2_Q3_JSON_XML_CSV多格式读取设计/answer_Q3.md",
+      "sha256": "fc3ced053d3d5802f5af43638ec9ba15d1d2be654544cd8f5e3dc92ef2d3ad40"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q3/readme_Q3.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/04_2023-2_Q3_JSON_XML_CSV多格式读取设计/readme_Q3.md",
+      "sha256": "f2f80f621ba8974cd9197351de11ef188996876d94305ee675dcb8da7faa792a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/ListElementsTree.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/ListElementsTree.java",
+      "sha256": "2714fe0119e7d9e4bdef84c168486375e71aea1e6933843e63de5210d8671fac"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/ListElementsTreeTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/ListElementsTreeTest.java",
+      "sha256": "4963b941fe490cb6eed43fd62d1d86871164637488bfc20bc3f503296c77550d"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDFileReader.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDFileReader.java",
+      "sha256": "3ca4e416608e13bd2ceb96deea470621b72a8e4dda311a38db7ea382aeab0b43"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDFileReaderTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDFileReaderTest.java",
+      "sha256": "6ccb0d0eec18fef6d33cb281668396fd1db252fcbb62fe80c2cd3e3b35d997cc"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDParser.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDParser.java",
+      "sha256": "e57dc837f85c8236da55953fbeb811e58d7ee97d8a0fd3397412985c04c8e85c"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDToken.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDToken.java",
+      "sha256": "ced148a48f95f7141081af5aa16fc4e6885652d4067d18ba69faba8a24197269"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTokenType.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDTokenType.java",
+      "sha256": "207c5203b3aac5b15aa9e6c06f32cd2d23913082517bf9689d9fe45482fc02b8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTokenizer.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDTokenizer.java",
+      "sha256": "ab1f5614aa22a9196b5054e3ffba8886bf25b3916fa16b503a430cc3d72b0ca9"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTokenizerTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDTokenizerTest.java",
+      "sha256": "de4f61fd163816cda076adbe3df11e8315b9b4b0dd8a8c89547aeecfc00ce29a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTree_Example.png",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDTree_Example.png",
+      "sha256": "3e80beac1a833b59f11ed6a8b9324fded6eb8a6314ccfa528615a2ba791534c3"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTree_Example_Walk.png",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/MDTree_Example_Walk.png",
+      "sha256": "54470d3306f31a338a84ede3e4bd36d53ba2bb0e63f06b2a7bf3a3690ca40fc8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/Q2README.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/Q2README.md",
+      "sha256": "c45701c97d95e3fc0a054aa2fee2f50232088f254f6b0a4782f32c0719248a62"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data0A.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/data/data0A.md",
+      "sha256": "7b40b222488155dacf9d5cb286fe4a78b549cfffa552e990cabf4f91499aeca0"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data0B.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/data/data0B.md",
+      "sha256": "2e3f7131a04bede32098c1d69af930995fa376276738d282c4c1ca1126de8933"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data1.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/data/data1.md",
+      "sha256": "5e579c1e95dddee89b50031dd206934a735495efecd8d7eeac1038b028faac7f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data2.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/data/data2.md",
+      "sha256": "33e0cce56f4e89d5433119b11532ffcc6e5e6cfb1caf2a2fd102448977731281"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data3.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/05_2023-1_Q2_Markdown文件读取/data/data3.md",
+      "sha256": "09167013f463e551f85b06942014b2fc624be6da00fe0806fb82b220c23b8712"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/Character.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/Character.java",
+      "sha256": "7d72a368dddca6c7380dfefb7de59b4c79158543a9bb28230fa9aa1bd634cc30"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/Constants.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/Constants.java",
+      "sha256": "b15a39b8e45c83ac9f2d465f17fc6393e180baad7e3c3daa8cacc7634124115f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/ExceptionTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/ExceptionTest.java",
+      "sha256": "5623589f02d1b949c34283162dbca9a5087ab7037d225a2983c9ea7d871f1e3f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/Graph.pdf",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/Graph.pdf",
+      "sha256": "0ff937d84a655559345a65b61bfb48f67f20629eb8458acf0179b4859c2622ad"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/Key.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/Key.java",
+      "sha256": "fc413b8ba1a3ad66aa443534ddc728669fe43ca6f46289f129c3cb4c0abdb8d7"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/State.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/State.java",
+      "sha256": "49ebdc25258b33de1c35422d60c14a1a1ff3c3e70241c82a746a9499b533bd27"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/StateTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/StateTest.java",
+      "sha256": "31185f8d970a531d9632446b4f4d9b763010b6c11e8b8468c168cc85f64a046d"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/XMLProcessor.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/XMLProcessor.java",
+      "sha256": "54ba5b0380e8171665100e7d6e15f3d875d2ba21467dd9eab78f5bfe9aff0289"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/example.xml",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/example.xml",
+      "sha256": "2fd3a539a74b0cf7917641882abd2dd9fd7c9712cd8bcf036286694044342c41"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/exceptions/NullCharacterException.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/exceptions/NullCharacterException.java",
+      "sha256": "f3419ca9d12d0f8641d021fa86ef9354fc5c2b3d4220e3afab1b3c12573ee0b5"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/exceptions/NullKeyEventException.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/exceptions/NullKeyEventException.java",
+      "sha256": "9cb5171d2972de76d4acd0616b2c39340fd69a942fe4246fba0645cb6c337d72"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/readme.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/06_2022-1_Q1_角色状态XML读写/readme.md",
+      "sha256": "185959c0607d4f523605c239e2639f712f7204f46346522ebeaed72430c60247"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/Command.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/Command.java",
+      "sha256": "ae6cefb309d6e360457f48c7b766eae9cd61b0a2a0e11ab884ed18387162e4be"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/DataBase.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/DataBase.java",
+      "sha256": "7d2d728290b23a24d0f249cdd3d68aae9552f76f5de1a4dbcbfac01a0bd47aac"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/Executor.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/Executor.java",
+      "sha256": "e707e0bc9a2994e423e770fa8138889a3d04435e6e449b908d3490502956a9dc"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/ExecutorTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/ExecutorTest.java",
+      "sha256": "d9e7b60ec7b98fa2069b6f988b1a92167c23a940963ff873e65610a40225310f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/LoadCommand.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/LoadCommand.java",
+      "sha256": "6d1f63d8a6f93c6478f264a118475ca3ad2f71fc637d3bc15c163014d35a1dd9"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/Parser.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/Parser.java",
+      "sha256": "bb8ce8711d16b1e8c3bf914367d63147ea491bbbdfb1c5214238f032159f2916"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/ParserTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/ParserTest.java",
+      "sha256": "ddc59894362b163bf179eeff5b44747234a20ec70de30b54196a5c9ead1d1c63"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/Person.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/Person.java",
+      "sha256": "d94adcb55a1cdca84daea3838f709d73c00cbdf1f1a3551a250ebe19a5eb59b8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/README.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/README.md",
+      "sha256": "6495cb0e25c74797c2ee346d1d9587a6a79456a3a55f3787f3c5a7055b5bdd0a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/SaveCommand.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/SaveCommand.java",
+      "sha256": "c8000c1656f70be89e08d59519e91e1b2fae8c4a5b1bf416f99d748067c16bc4"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/Token.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/Token.java",
+      "sha256": "25eba9971aed3b8e4dea44955daf3af6b080ee2b8d5cee2c826acacf16348e6c"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/Tokeniser.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/Tokeniser.java",
+      "sha256": "6e8f9bffc3a2cca20a22039ca41981f7111726a31e785ef1b174cd90de8c186f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/TokeniserTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/TokeniserTest.java",
+      "sha256": "d44bc37f8cea6e01c22bd766f835006d6e217212290db75a1e430aa877a441d7"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2021-2/q2/example.xml",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/07_2021-2_Q2_人物数据XML加载与保存/example.xml",
+      "sha256": "267f46256ed1e2b418180b1ebcd505ae5a97c736c885216a6d7205f961428fe2"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-2/Q3/Application.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/08_2020-2_Q3_CSV读取与XML导出/Application.java",
+      "sha256": "f10cfa53f80a1c55b561ff70f29b94afa788c5c1e0537dc5d399b2215ebffdc0"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-2/Q3/ApplicationTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/08_2020-2_Q3_CSV读取与XML导出/ApplicationTest.java",
+      "sha256": "57e47ea38de2baa955cd12e88bf2a519ecdd6ed9d28d6ca1c778f56d70e46a2e"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-2/Q3/Color.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/08_2020-2_Q3_CSV读取与XML导出/Color.java",
+      "sha256": "fef65765cddfc1188484138c2d256db8f9b6d0f9b951eed459f4309ced5dc7fb"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-2/Q3/Node.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/08_2020-2_Q3_CSV读取与XML导出/Node.java",
+      "sha256": "c152602f5bee8cbd2010fc68bc46b6e808020fc4da8baf51f6fc6818b2eaa609"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-2/Q3/Person.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/08_2020-2_Q3_CSV读取与XML导出/Person.java",
+      "sha256": "3021d29eaeff9e7288d2f3be856363b8a5995f8d6c7aab5c29a4492edc794f7a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-2/Q3/RBTree.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/08_2020-2_Q3_CSV读取与XML导出/RBTree.java",
+      "sha256": "8be9d451d749f71f881eb7c58ce707d81890db427452068fe022614703325ae2"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-2/Q3/README.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/08_2020-2_Q3_CSV读取与XML导出/README.md",
+      "sha256": "de374ee9c2b6ab78ae78d32d4fc73fad69a6ee5c9c899c98eb7278142d70c2e8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/Customer.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/Customer.java",
+      "sha256": "906581f6d5b80cc370a2176e65792a3de8074dd6e5a8f859f0f9f9d5f0b9176e"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/FileUtil.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/FileUtil.java",
+      "sha256": "2685cc19946792b812cf39904d76186dfca80d84f8425cfd868326999a3b9347"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/Parser.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/Parser.java",
+      "sha256": "c152dfea1be28336d780f642d41c982289c7e1f6eca1660b485499a5df350a80"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/ParserTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/ParserTest.java",
+      "sha256": "8246fcc47d215346c0f299a0f65b393dde6f62bc1d6ee0cd4c31a85564947e16"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/Token.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/Token.java",
+      "sha256": "81691e29faeb7536480177a0d4fdbedeb7c8073461bf18c5c756a79d4dbf3102"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/Tokeniser.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/Tokeniser.java",
+      "sha256": "bd093b834b79a302af7052c093a7cfa6076ddd20c6c747a8f5be3efe1474af43"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/TokeniserTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/TokeniserTest.java",
+      "sha256": "f1ca82739cb8594ec101bfc7027e19fb1c85bc02259192cd6f3be5a3e9b4511d"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/XMLTable.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/XMLTable.java",
+      "sha256": "6e7c288422f044c88a095aa24011d630f9abc7cfba3ec4ecfbda8326918e6469"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/Q4/XMLTableTest.java",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/XMLTableTest.java",
+      "sha256": "07d9385c46aa88cd33e8fbc4c205a20e11493c95398b47504a89655f25cd43cd"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2020-1/README.md",
+      "destination": "2真题 按题型/3数据存储XML_JSON题目 汇总/09_2020-1_Q4_XML表格记录加载与插入/原卷目录说明.md",
+      "sha256": "0695b3af0df8684f33a6e4a0db70fb749307f1ce03d18eddcd1d35a7191ce961"
+    }
+  ]
+}

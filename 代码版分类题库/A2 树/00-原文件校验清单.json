@@ -1,0 +1,552 @@
+[
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-2/src/Q4/Element.pdf",
+    "destination": "01_2025-2_Q4_层级XML与地点树/Element.pdf",
+    "sha256": "14ad3a1417f7408d8e224806a465ddcea20262609f5df7aa900a2f06ad7a2b1c"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-2/src/Q4/Location.java",
+    "destination": "01_2025-2_Q4_层级XML与地点树/Location.java",
+    "sha256": "18db9680f1f2400f687cf4f6321ef44662e13177e632c894853ea98473a86a15"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-2/src/Q4/LocationLoader.java",
+    "destination": "01_2025-2_Q4_层级XML与地点树/LocationLoader.java",
+    "sha256": "a81a36c8ac4150c90b69bd43ee4e8b3d3500703145422facc53c19409cb02faa"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-2/src/Q4/Node.pdf",
+    "destination": "01_2025-2_Q4_层级XML与地点树/Node.pdf",
+    "sha256": "371dd3c8cb604553d6f24945dc3aaa5ef765ef70d5754c66ea26fa3d9b9d3964"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-2/src/Q4/Q4README.md",
+    "destination": "01_2025-2_Q4_层级XML与地点树/Q4README.md",
+    "sha256": "7a8d022a784e05ffe4cf60df696794d82c7cd960fedf51554a0f0cef456e2af9"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-2/src/Q4/Q4Test.java",
+    "destination": "01_2025-2_Q4_层级XML与地点树/Q4Test.java",
+    "sha256": "54fdab4e15cd9e0dfa8c289d283809d938335967fd8da70a09c51d14234871e8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-2/src/Q4/data/a_flat_easy.xml",
+    "destination": "01_2025-2_Q4_层级XML与地点树/data/a_flat_easy.xml",
+    "sha256": "7f0675c868b61c15b4416d4bf29581429ee4769b08f0d8bbba2b6386282994a8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-2/src/Q4/data/b_tree_basic.xml",
+    "destination": "01_2025-2_Q4_层级XML与地点树/data/b_tree_basic.xml",
+    "sha256": "f4a04aa2b2e566902cd212c94989ef34f0d756a3cd314cab5beb80590d1dcbe6"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-1/src/Q2/EmptyTree.java",
+    "destination": "02_2025-1_Q2_家族二叉搜索树/EmptyTree.java",
+    "sha256": "4efde21cf4df581b8e39fc34b7181b9e7e3254735044118fa4211bbeee929eab"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-1/src/Q2/FamilyTree.java",
+    "destination": "02_2025-1_Q2_家族二叉搜索树/FamilyTree.java",
+    "sha256": "28422dd11001cbdbdb0dfd730408d1105abc854472ea52fa1171915f85fb8e87"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-1/src/Q2/Node.java",
+    "destination": "02_2025-1_Q2_家族二叉搜索树/Node.java",
+    "sha256": "5cc31b042a8866f811cda7f02f2368b3e2c5609c366f1dcee95eb7ec8f09d4b1"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-1/src/Q2/Person.java",
+    "destination": "02_2025-1_Q2_家族二叉搜索树/Person.java",
+    "sha256": "7b54be9cfdca2136162c84d9b66a39f8aca15585e3aabe313dd80592c468cc88"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-1/src/Q2/Q2README.md",
+    "destination": "02_2025-1_Q2_家族二叉搜索树/Q2README.md",
+    "sha256": "9edd88f1bc45e9754f917553bc4942ed8ba02391cae72d57be5eb20695cbde71"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-1/src/Q2/Q2Test.java",
+    "destination": "02_2025-1_Q2_家族二叉搜索树/Q2Test.java",
+    "sha256": "52c03030e766f362056934fac2bb56a010aff97fe08b7a0ecb0e1c817d60b2a5"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2025-1/src/Q2/Tree.java",
+    "destination": "02_2025-1_Q2_家族二叉搜索树/Tree.java",
+    "sha256": "9557a82b0b6b6547b69810f255903129d7e1b16197f3d00585b6968223590769"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-2/src/Q1/BST.java",
+    "destination": "03_2024-2_Q1_BST先序遍历迭代器/BST.java",
+    "sha256": "b73e080330ae6579304f3c8ff351a093109abd23f49e990be6b263ea9ca64444"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-2/src/Q1/IterableCollection.java",
+    "destination": "03_2024-2_Q1_BST先序遍历迭代器/IterableCollection.java",
+    "sha256": "8462172bdabeb94e6e0ae70efdacd9624d1995e4e26ee39fbccde1437054b4c3"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-2/src/Q1/Iterator.java",
+    "destination": "03_2024-2_Q1_BST先序遍历迭代器/Iterator.java",
+    "sha256": "c11829f2e9191d6d2d25204004786e8d90d2584256ec833e7689e1a0dfd465e4"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-2/src/Q1/Q1README.md",
+    "destination": "03_2024-2_Q1_BST先序遍历迭代器/Q1README.md",
+    "sha256": "6ebc8bad4369d3ed5760a2bab342245e72eeb0b6a644a3a8ca5755e9ee4ebfde"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-2/src/Q1/Q1Test.java",
+    "destination": "03_2024-2_Q1_BST先序遍历迭代器/Q1Test.java",
+    "sha256": "691fbae80f6d1e076c73802652e471cd9104c8f95babea7a6a7ed4199fef5cfb"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-2/src/Q4/Q4Answers.md",
+    "destination": "04_2024-2_Q4_树主题开放讨论_可选/Q4Answers.md",
+    "sha256": "cb2e617c176905d52263557488112defa9a2c200ef917bae6e16afb8bd962edd"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-2/src/Q4/Q4README.md",
+    "destination": "04_2024-2_Q4_树主题开放讨论_可选/Q4README.md",
+    "sha256": "6eae2f7b1e934c8bf549095d51f1f7599145d6f4bb3696e8267eda53aeb82ea0"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-1/src/Q2/AVLTreeTest.java",
+    "destination": "05_2024-1_Q2_AVL树参数化测试/AVLTreeTest.java",
+    "sha256": "33e2706eb34c6e7a85919073b31b9f6141c177bda2216a25bb7fb52bc0a721d1"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-1/src/Q2/MockClasses/AVLTree.java",
+    "destination": "05_2024-1_Q2_AVL树参数化测试/MockClasses/AVLTree.java",
+    "sha256": "55eadf1092545bcd0075cb14d3b60f8d02b1a295c020a07b2b50fca177971217"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-1/src/Q2/MockClasses/SampleAVLTree.java",
+    "destination": "05_2024-1_Q2_AVL树参数化测试/MockClasses/SampleAVLTree.java",
+    "sha256": "dcd24fe44864bb9e77761ce9d2fc229814dafa708cd42ad99e25c7b64b26d96f"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-1/src/Q2/Q2README.md",
+    "destination": "05_2024-1_Q2_AVL树参数化测试/Q2README.md",
+    "sha256": "cba43612e282324fd9c0152101fa0f532e8173431f1457491dc4c8abda774d61"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2024-1/src/Q2/TreeNodeTestRule.java",
+    "destination": "05_2024-1_Q2_AVL树参数化测试/TreeNodeTestRule.java",
+    "sha256": "929505aeef1c38edead9ad5f7930eeb74359427fc19c6eb62079ad7162b9862f"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-2/src/Q2/ClassificationTests.java",
+    "destination": "06_2023-2_Q2_蜘蛛分类决策树/ClassificationTests.java",
+    "sha256": "a11bb88a04102ab55f6f8f6721b8da4417ca503b30a83dc99be5c3ad0ad845b2"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-2/src/Q2/ClassifierFactory.java",
+    "destination": "06_2023-2_Q2_蜘蛛分类决策树/ClassifierFactory.java",
+    "sha256": "af5c2eb203c697a05b6a38fa94daecda2da7adbeb54369a8d41340cf534938e8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-2/src/Q2/DecisionNode.java",
+    "destination": "06_2023-2_Q2_蜘蛛分类决策树/DecisionNode.java",
+    "sha256": "c95b273dc028b43fe9b60a51594dc3a5fedc103f09b42f33ce6d26313479e963"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-2/src/Q2/Node.java",
+    "destination": "06_2023-2_Q2_蜘蛛分类决策树/Node.java",
+    "sha256": "34049af6d6a2034842bc86f527ba8337bc6674a2ced6c38c57e4c257cd8228d5"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-2/src/Q2/Spider.java",
+    "destination": "06_2023-2_Q2_蜘蛛分类决策树/Spider.java",
+    "sha256": "c28adaa478176a1c544ffc7bd3c80a0086b4761561a292b7461d0df1ab4da26c"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-2/src/Q2/TerminalNode.java",
+    "destination": "06_2023-2_Q2_蜘蛛分类决策树/TerminalNode.java",
+    "sha256": "4aad3a4e238ed78e829c93c0f8783e6bfb454288e6158fb5d1ef96002da00feb"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-2/src/Q2/readme_Q2.md",
+    "destination": "06_2023-2_Q2_蜘蛛分类决策树/readme_Q2.md",
+    "sha256": "85a026ad569d09920df5230488b900aedcc44758bca6f2df7028e87eef1065c8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/ListElementsTree.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/ListElementsTree.java",
+    "sha256": "2714fe0119e7d9e4bdef84c168486375e71aea1e6933843e63de5210d8671fac"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/ListElementsTreeTest.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/ListElementsTreeTest.java",
+    "sha256": "4963b941fe490cb6eed43fd62d1d86871164637488bfc20bc3f503296c77550d"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDFileReader.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDFileReader.java",
+    "sha256": "3ca4e416608e13bd2ceb96deea470621b72a8e4dda311a38db7ea382aeab0b43"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDFileReaderTest.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDFileReaderTest.java",
+    "sha256": "6ccb0d0eec18fef6d33cb281668396fd1db252fcbb62fe80c2cd3e3b35d997cc"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDParser.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDParser.java",
+    "sha256": "e57dc837f85c8236da55953fbeb811e58d7ee97d8a0fd3397412985c04c8e85c"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDToken.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDToken.java",
+    "sha256": "ced148a48f95f7141081af5aa16fc4e6885652d4067d18ba69faba8a24197269"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDTokenType.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDTokenType.java",
+    "sha256": "207c5203b3aac5b15aa9e6c06f32cd2d23913082517bf9689d9fe45482fc02b8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDTokenizer.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDTokenizer.java",
+    "sha256": "ab1f5614aa22a9196b5054e3ffba8886bf25b3916fa16b503a430cc3d72b0ca9"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDTokenizerTest.java",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDTokenizerTest.java",
+    "sha256": "de4f61fd163816cda076adbe3df11e8315b9b4b0dd8a8c89547aeecfc00ce29a"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDTree_Example.png",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDTree_Example.png",
+    "sha256": "3e80beac1a833b59f11ed6a8b9324fded6eb8a6314ccfa528615a2ba791534c3"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/MDTree_Example_Walk.png",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/MDTree_Example_Walk.png",
+    "sha256": "54470d3306f31a338a84ede3e4bd36d53ba2bb0e63f06b2a7bf3a3690ca40fc8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/Q2README.md",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/Q2README.md",
+    "sha256": "c45701c97d95e3fc0a054aa2fee2f50232088f254f6b0a4782f32c0719248a62"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/data/data0A.md",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/data/data0A.md",
+    "sha256": "7b40b222488155dacf9d5cb286fe4a78b549cfffa552e990cabf4f91499aeca0"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/data/data0B.md",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/data/data0B.md",
+    "sha256": "2e3f7131a04bede32098c1d69af930995fa376276738d282c4c1ca1126de8933"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/data/data1.md",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/data/data1.md",
+    "sha256": "5e579c1e95dddee89b50031dd206934a735495efecd8d7eeac1038b028faac7f"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/data/data2.md",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/data/data2.md",
+    "sha256": "33e0cce56f4e89d5433119b11532ffcc6e5e6cfb1caf2a2fd102448977731281"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2023-1/Q2/data/data3.md",
+    "destination": "07_2023-1_Q2_Markdown建树与先序遍历/data/data3.md",
+    "sha256": "09167013f463e551f85b06942014b2fc624be6da00fe0806fb82b220c23b8712"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/BST.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/BST.java",
+    "sha256": "40c6a9d75ef4872b24bddade3ed40edb234d57d7e1d5b874e6ab8df90907139e"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/BSTTest.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/BSTTest.java",
+    "sha256": "5117deaf30b8807cdf432c64eb73a1f33e14c0074bb42008aec82bf7f0d6c8f8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/Command.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/Command.java",
+    "sha256": "ae6cefb309d6e360457f48c7b766eae9cd61b0a2a0e11ab884ed18387162e4be"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/Executor.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/Executor.java",
+    "sha256": "e9b48a8f7e33e2a155b49968c1eaca4f26eb43c2d5ee93d58eb6c417d9618c7a"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/ExecutorTest.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/ExecutorTest.java",
+    "sha256": "af457e8c1ccb470b95bd8cd74acda37832e18c5ccc7aafc8a2e7c85e204d6f7c"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/LoadCommand.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/LoadCommand.java",
+    "sha256": "cddfd8a58770acf695238ebdc3bf1d328e12bc53f4e34f039359682759c0ab20"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/Node.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/Node.java",
+    "sha256": "b588daa0dacedcfabfeff6fb049102f8b2460bb83f4dd5c144e6e8bc9e62c412"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/NodeCopy.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/NodeCopy.java",
+    "sha256": "9a069001a79337300aa122bde304f5ac35f9fe31fc0390fb302cfde7eb28698e"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/Parser.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/Parser.java",
+    "sha256": "bb8ce8711d16b1e8c3bf914367d63147ea491bbbdfb1c5214238f032159f2916"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/ParserTest.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/ParserTest.java",
+    "sha256": "aa99f5e353242150c151794487365819dd5debdd0ac71bbb52af2cb64bff73ee"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/SaveCommand.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/SaveCommand.java",
+    "sha256": "c02a9ff1f005e657bd5e6b33b0a5e5ba9e9f318e0f28d531d88aad1466be80a1"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/SumCommand.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/SumCommand.java",
+    "sha256": "84bd2463c6e8c10483efdeebe166d216bb7dc49cd7fc9e3103226f52614e2195"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/Token.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/Token.java",
+    "sha256": "8e16f8539fe795aa46078966d32f07077edfdbb910f6d9c757d2d8a698d29991"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/Tokeniser.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/Tokeniser.java",
+    "sha256": "1d559e7da885a9f3873ccfcc4881bdb19cdfb616494bce4f82c08c569e66a182"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/TokeniserTest.java",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/TokeniserTest.java",
+    "sha256": "4c403eba31b4e0fd05c585d5e089771376e1be0c029cc04fe0dabf2fcb68d574"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2022-1/q3/readme.md",
+    "destination": "08_2022-1_Q3_BST查找与反向先序遍历/readme.md",
+    "sha256": "acc595ac39852b6aa12b13dd0ffdf0a682ca70442d71dbd69507294e848bd4a1"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/BinarySearchTree.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/BinarySearchTree.java",
+    "sha256": "0c1c9931f778ea50f8fa95d4f716bb89526687700a5c5fd9380be8e2f80b0d53"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/EmptyTree.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/EmptyTree.java",
+    "sha256": "9b831aefb5ae14bc87605018dcdcb09203ffc7a79a5bcb028d2b49eede99ffbf"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/ParcelBST.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/ParcelBST.java",
+    "sha256": "3da27a96e8029cb8b37a86a66d65bf040a2066001bcb1856fbba8e3b95e17c7b"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/ParcelTreeTest.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/ParcelTreeTest.java",
+    "sha256": "a6938c3528ab616f6a134f1c57515494655d7c770b8dbf85f4fba12e01e67874"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/Tree.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/Tree.java",
+    "sha256": "25126afb84962c93c7aceb07db337d14b46e155d2760dd9326573edbcc86ac58"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/CartesianCoordinate.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/CartesianCoordinate.java",
+    "sha256": "571c392a04bbf6f3d0f564d4404afb69257ff045a4bd285788259d9f6f0423d5"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/DistanceFormula.png",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/DistanceFormula.png",
+    "sha256": "f2e2861cd66c28acc694723b075ae6b8c7062f3fb31b355f00ce5b3fc13c3e9f"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/Parcel.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/Parcel.java",
+    "sha256": "17e362ef8dafb0fcd518721d1fbac919c7bbf7bca69ae081877d4bd9c2e2500f"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/ParcelExample1.png",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/ParcelExample1.png",
+    "sha256": "067c4ab2996daebe3fd035c12fe3aeba3e06439639d205e2c48f8603f096a8d3"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/ParcelExample2.png",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/ParcelExample2.png",
+    "sha256": "0dd1ff6e0fa51fa4659f62e644737ac0d5c32f751d8827c816025f7671f4a4f9"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/ParcelGeneral.png",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/ParcelGeneral.png",
+    "sha256": "35bea27b2baac2742762c6bfc6698181cb9246fcad41dac29778ad4db73066b8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/Person.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/Person.java",
+    "sha256": "5e50315c49f904c15b273b5d15089c55b6572a65c356406ff5342467fda152ed"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/Recipient.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/Recipient.java",
+    "sha256": "7827f31fddc2972b14b764fd966041f1cb019c37471cb7f98c2ea9bb1a5b3714"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/parcel/Sender.java",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/parcel/Sender.java",
+    "sha256": "ee3e2a2fbf37179b3f7a20216dc2343cf1f31c7562cafd8a3e235dfc1e4ece2d"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2021-2/q3/readme.md",
+    "destination": "09_2021-2_Q3_包裹BST与先序迭代器/readme.md",
+    "sha256": "c94157c58d70e6c96e0f98415decf6e7cf4a6e5f74b3b27f20b9a763542163a8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/Color.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/Color.java",
+    "sha256": "fef65765cddfc1188484138c2d256db8f9b6d0f9b951eed459f4309ced5dc7fb"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/MyTokenizer.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/MyTokenizer.java",
+    "sha256": "4006a72fcb372476321b08f2b36abf243f641bcd650a401cba46ba97e0f48097"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/MyTokenizerTest.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/MyTokenizerTest.java",
+    "sha256": "a832d3092915d76b12cefe42a076c9b1b4fcb61a3b6c152bee228337f65a24db"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/Node.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/Node.java",
+    "sha256": "5f40f06ef919cf2b1d9c804a8b5083c0711c9b52e685a0e648553f98519726d9"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/RBTree.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/RBTree.java",
+    "sha256": "d01d623e1b4005f12f67eb6372ecebabc041ab82571adfd1621040cf794152dd"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/README.md",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/README.md",
+    "sha256": "f43f2e86bf311449855aa192e1a0045ffa8f0ec822f7a4de19bce7dae0af134f"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/Token.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/Token.java",
+    "sha256": "772f3bddc0ebf804e54be29f3fff119ee0167051d0f2eb6810b3c1e5bccdabb8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/Tokenizer.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/Tokenizer.java",
+    "sha256": "1fcae8ed3a7dcf02c0296c3f09ddefc1276fbb440e03349fb848bc81662caabe"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/TreeBuilder.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/TreeBuilder.java",
+    "sha256": "79cef73750d3d72720aa47634d2378257d5d72f4029fbfad8397432c029563a7"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q1/TreeBuilderTest.java",
+    "destination": "10_2020-2_Q1_分词与红黑树构建/TreeBuilderTest.java",
+    "sha256": "49150a8c66acd117a54071b7b695a88414ec85cba1be032d3a6974a89420d912"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q3/Application.java",
+    "destination": "11_2020-2_Q3_红黑树层序遍历与XML导出/Application.java",
+    "sha256": "f10cfa53f80a1c55b561ff70f29b94afa788c5c1e0537dc5d399b2215ebffdc0"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q3/ApplicationTest.java",
+    "destination": "11_2020-2_Q3_红黑树层序遍历与XML导出/ApplicationTest.java",
+    "sha256": "57e47ea38de2baa955cd12e88bf2a519ecdd6ed9d28d6ca1c778f56d70e46a2e"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q3/Color.java",
+    "destination": "11_2020-2_Q3_红黑树层序遍历与XML导出/Color.java",
+    "sha256": "fef65765cddfc1188484138c2d256db8f9b6d0f9b951eed459f4309ced5dc7fb"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q3/Node.java",
+    "destination": "11_2020-2_Q3_红黑树层序遍历与XML导出/Node.java",
+    "sha256": "c152602f5bee8cbd2010fc68bc46b6e808020fc4da8baf51f6fc6818b2eaa609"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q3/Person.java",
+    "destination": "11_2020-2_Q3_红黑树层序遍历与XML导出/Person.java",
+    "sha256": "3021d29eaeff9e7288d2f3be856363b8a5995f8d6c7aab5c29a4492edc794f7a"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q3/RBTree.java",
+    "destination": "11_2020-2_Q3_红黑树层序遍历与XML导出/RBTree.java",
+    "sha256": "8be9d451d749f71f881eb7c58ce707d81890db427452068fe022614703325ae2"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-2/Q3/README.md",
+    "destination": "11_2020-2_Q3_红黑树层序遍历与XML导出/README.md",
+    "sha256": "de374ee9c2b6ab78ae78d32d4fc73fad69a6ee5c9c899c98eb7278142d70c2e8"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-1/Q1/Colour.java",
+    "destination": "12_2020-1_Q1_三色树性质检查/Colour.java",
+    "sha256": "47077170f60644401ff1e2f3a6c03127b4077ca310264973bbd5f7e2ab776cec"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-1/Q1/ThreeColourTree.java",
+    "destination": "12_2020-1_Q1_三色树性质检查/ThreeColourTree.java",
+    "sha256": "a546cdc6f1e7919c20c4ca9299aafda396394962160ea84814cbaa1d75b92d1f"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2020-1/Q1/ThreeColourTreeTest.java",
+    "destination": "12_2020-1_Q1_三色树性质检查/ThreeColourTreeTest.java",
+    "sha256": "c49a8568186f9924ffb61d34014b1f811d6cd1aeb587e604ac41d2d6e526aa04"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2019-2/Q2/BST.java",
+    "destination": "13_2019-2_Q2_BST查找删除与节点求和/BST.java",
+    "sha256": "e11f28e3125e641777e0672270d955744d6d9daf574b3f83270eb06049ebfc82"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2019-2/Q2/Task1Test.java",
+    "destination": "13_2019-2_Q2_BST查找删除与节点求和/Task1Test.java",
+    "sha256": "df5d4f8dc3f6d67ce94774ba6d16afde4a952523d037f13791880cc5f51e63b5"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2019-2/Q2/Task2Test.java",
+    "destination": "13_2019-2_Q2_BST查找删除与节点求和/Task2Test.java",
+    "sha256": "308ab1a27a592a34ec210c1205f144cd3cc6b5779d40d104ad2de9cc5dd26bba"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2019-2/Q2/Task3Test.java",
+    "destination": "13_2019-2_Q2_BST查找删除与节点求和/Task3Test.java",
+    "sha256": "b233e60d2ab1a75709710b4d41678622881465b0fcc9cbc20482a53a79049c62"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2019-2/2019 Semester 2 - Final Examination.pdf",
+    "destination": "13_2019-2_Q2_BST查找删除与节点求和/2019 Semester 2 - Final Examination.pdf",
+    "sha256": "e05a0a2126309270f37e85ef92bfc8cbbdca7f9a6badcb51a0f681471d4dacb6"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2019-1/Q3/BST.java",
+    "destination": "14_2019-1_Q3_BST查找插入与节点筛选/BST.java",
+    "sha256": "598e6f71eda757803625c62fda159e3730da19eaef5b25bac7140376db691971"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2019-1/Q3/BSTTest.java",
+    "destination": "14_2019-1_Q3_BST查找插入与节点筛选/BSTTest.java",
+    "sha256": "5ed17173f1942b7a8f824ad9affd9f48aa3f03d4263e52ec9ee715f6d0d07acc"
+  },
+  {
+    "source": "6442 复习/exam-practice-questions/past-exams/2019-1/2019 Semester 1 - Final Examination.pdf",
+    "destination": "14_2019-1_Q3_BST查找插入与节点筛选/2019 Semester 1 - Final Examination.pdf",
+    "sha256": "fd402ea083b78d44da0f16db07f73648591e08f2d72ab824b2e03468a8ef5bbe"
+  }
+]

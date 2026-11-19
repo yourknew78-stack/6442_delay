@@ -1,0 +1,551 @@
+{
+  "question_count": 13,
+  "copied_file_count": 109,
+  "files": [
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q3/PaymentProcessor.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/01_2025-2_Q3_【设计模式重构】_支付处理器的模式重构/PaymentProcessor.java",
+      "sha256": "93b84c183d3b775e68a691cd0b15daa4b35b163d1ff0d0c1d42faeb81ae59c8a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q3/Q3Answers.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/01_2025-2_Q3_【设计模式重构】_支付处理器的模式重构/Q3Answers.java",
+      "sha256": "092f58f9a90827f651aea73b3751fbea68d4b0014a8fd252f747b82c3d5bd879"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q3/Q3README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/01_2025-2_Q3_【设计模式重构】_支付处理器的模式重构/Q3README.md",
+      "sha256": "6b6f579f2825b1d385b2f2edf86f549e71dd877b51b12e72750637eff79e0926"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q3/Q3Test.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/01_2025-2_Q3_【设计模式重构】_支付处理器的模式重构/Q3Test.java",
+      "sha256": "38799d09447f0bf85d3b716bd847062a7f1f736dd75f01933be8be46e26f1f15"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q5/FavouriteList.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/02_2025-2_Q5_【UML读图编程】_收藏系统UML与观察者模式/FavouriteList.java",
+      "sha256": "f4d9217c90ab9988e6510621fdd86f4fcaeab10078173a7395569f9ad9bbb1ea"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q5/Main.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/02_2025-2_Q5_【UML读图编程】_收藏系统UML与观察者模式/Main.java",
+      "sha256": "5062578f7fe61502b5477abb6be7d8572081f0b660d28cc79808aa5e7089a75a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q5/Q5README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/02_2025-2_Q5_【UML读图编程】_收藏系统UML与观察者模式/Q5README.md",
+      "sha256": "765264613bf3b0cf230415c3b78f73869abccd844861b3bb255160a34870f607"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q5/Q5Test.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/02_2025-2_Q5_【UML读图编程】_收藏系统UML与观察者模式/Q5Test.java",
+      "sha256": "6436a6d50ace4feba9682415f47a22a45aad86f2c152e5877fcd6c99472178d8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-2/src/Q5/UML_ob.png",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/02_2025-2_Q5_【UML读图编程】_收藏系统UML与观察者模式/UML_ob.png",
+      "sha256": "0f88e917dd8e27111b7171d1bc9ae2b72fad66ebf32a2804db31aac36775fe38"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/BurntState.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/BurntState.java",
+      "sha256": "c634d37aec24bdb6043d505b4046f5789ed672e83a0d089a22f3d4e43212e281"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/Food.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/Food.java",
+      "sha256": "e404b3fc89908fd3775d655fb4a8dc5f6ccc3c4dc70c65154ae1f5bd8ec93d74"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/FoodFactory.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/FoodFactory.java",
+      "sha256": "429d988428fec70f209cf08a7a70eeed32af5f02e5132218fbfe8a2801de5fb3"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/FoodState.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/FoodState.java",
+      "sha256": "422b120ffad57f4d69d096a035a125728135881230ad28f93b851a2e68100581"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/Ingredient.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/Ingredient.java",
+      "sha256": "9dd0c7573faa444c3fba2d2aa57407d5939b49c731a26b66448f7abaebd28632"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/Kitchen.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/Kitchen.java",
+      "sha256": "88534a08b2caaf5e5fde92cf73bd9000ed3db6fffdcdd06567c6bdc0fc90b77a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/Q1README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/Q1README.md",
+      "sha256": "17971726a63edfcacac379712a68f9faed3a8de5a817ac101ce2ee372d6e0ada"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/Q1Test.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/Q1Test.java",
+      "sha256": "da29ad6656ca8b9950a55c237ae39c7f19e0e31be9659a9286ddf4dfa4c1290e"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/RawState.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/RawState.java",
+      "sha256": "8f3d9908a0801b821f96473a0fd82ae33e9f40d1a28cd0e9b686b0255b288e51"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/ReadyState.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/ReadyState.java",
+      "sha256": "9014f0cbd5afa681d349ad8fe324df299dc112c9dc93792d8cde0d8b1f933e35"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2025-1/src/Q1/Recipe.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/03_2025-1_Q1_【设计模式_标题含UML】_厨房食物状态与单例模式/Recipe.java",
+      "sha256": "1fd1ef1df1f65c5e4ebaeb220e91db2de71c7d0cb7a77e6c7b359d3582579081"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q1/BST.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/04_2024-2_Q1_【Iterator设计模式】_二叉搜索树迭代器模式/BST.java",
+      "sha256": "b73e080330ae6579304f3c8ff351a093109abd23f49e990be6b263ea9ca64444"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q1/IterableCollection.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/04_2024-2_Q1_【Iterator设计模式】_二叉搜索树迭代器模式/IterableCollection.java",
+      "sha256": "8462172bdabeb94e6e0ae70efdacd9624d1995e4e26ee39fbccde1437054b4c3"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q1/Iterator.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/04_2024-2_Q1_【Iterator设计模式】_二叉搜索树迭代器模式/Iterator.java",
+      "sha256": "c11829f2e9191d6d2d25204004786e8d90d2584256ec833e7689e1a0dfd465e4"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q1/Q1README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/04_2024-2_Q1_【Iterator设计模式】_二叉搜索树迭代器模式/Q1README.md",
+      "sha256": "6ebc8bad4369d3ed5760a2bab342245e72eeb0b6a644a3a8ca5755e9ee4ebfde"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q1/Q1Test.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/04_2024-2_Q1_【Iterator设计模式】_二叉搜索树迭代器模式/Q1Test.java",
+      "sha256": "691fbae80f6d1e076c73802652e471cd9104c8f95babea7a6a7ed4199fef5cfb"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q4/Q4Answers.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/05_2024-2_Q4_【设计模式开放讨论】_设计模式主题讨论/Q4Answers.md",
+      "sha256": "cb2e617c176905d52263557488112defa9a2c200ef917bae6e16afb8bd962edd"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-2/src/Q4/Q4README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/05_2024-2_Q4_【设计模式开放讨论】_设计模式主题讨论/Q4README.md",
+      "sha256": "6eae2f7b1e934c8bf549095d51f1f7599145d6f4bb3696e8267eda53aeb82ea0"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-1/src/Q1/Animal.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/06_2024-1_Q1_【工厂与模板方法】_动物工厂与模板方法/Animal.java",
+      "sha256": "0105493ccde961811cb376bd6f4e3916dde9ff13502b0ae9aa1c2ff0912e264a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-1/src/Q1/AnimalCreator.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/06_2024-1_Q1_【工厂与模板方法】_动物工厂与模板方法/AnimalCreator.java",
+      "sha256": "2e246004c40a2dced2b2d374aa0d740506bf0374bbc328331149b4ba78f6901f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-1/src/Q1/Dog.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/06_2024-1_Q1_【工厂与模板方法】_动物工厂与模板方法/Dog.java",
+      "sha256": "c37ef90d2a145c87285b351a850f71f48228148cf2589d6796e3a7305acecebc"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-1/src/Q1/DogCreator.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/06_2024-1_Q1_【工厂与模板方法】_动物工厂与模板方法/DogCreator.java",
+      "sha256": "4a6fcbadf494491898894f3db17b5b976bff912a3fe6f6ee63df2b1d70227c15"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-1/src/Q1/FactoryTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/06_2024-1_Q1_【工厂与模板方法】_动物工厂与模板方法/FactoryTest.java",
+      "sha256": "56948803b4bc5ba06c70b3de65d4f724c9531ea7cd048adb3189f7f67eb5b1c6"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-1/src/Q1/Penguin.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/06_2024-1_Q1_【工厂与模板方法】_动物工厂与模板方法/Penguin.java",
+      "sha256": "deb828c6b43eada204e748df03661513d10899c4343d9f37d1501898471da953"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-1/src/Q1/PenguinCreator.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/06_2024-1_Q1_【工厂与模板方法】_动物工厂与模板方法/PenguinCreator.java",
+      "sha256": "ece10d9082aacc9def61a1aec90664f2ac86c4945c37132c3dbaa2cc4b6f2ed8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2024-1/src/Q1/Q1README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/06_2024-1_Q1_【工厂与模板方法】_动物工厂与模板方法/Q1README.md",
+      "sha256": "7e34a4e7dce788905cee321bf21bcc852aff80069d0b8544e5820524de9a263c"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q2/ClassificationTests.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/07_2023-2_Q2_【工厂模式与决策树】_蜘蛛分类器工厂/ClassificationTests.java",
+      "sha256": "a11bb88a04102ab55f6f8f6721b8da4417ca503b30a83dc99be5c3ad0ad845b2"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q2/ClassifierFactory.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/07_2023-2_Q2_【工厂模式与决策树】_蜘蛛分类器工厂/ClassifierFactory.java",
+      "sha256": "af5c2eb203c697a05b6a38fa94daecda2da7adbeb54369a8d41340cf534938e8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q2/DecisionNode.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/07_2023-2_Q2_【工厂模式与决策树】_蜘蛛分类器工厂/DecisionNode.java",
+      "sha256": "c95b273dc028b43fe9b60a51594dc3a5fedc103f09b42f33ce6d26313479e963"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q2/Node.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/07_2023-2_Q2_【工厂模式与决策树】_蜘蛛分类器工厂/Node.java",
+      "sha256": "34049af6d6a2034842bc86f527ba8337bc6674a2ced6c38c57e4c257cd8228d5"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q2/Spider.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/07_2023-2_Q2_【工厂模式与决策树】_蜘蛛分类器工厂/Spider.java",
+      "sha256": "c28adaa478176a1c544ffc7bd3c80a0086b4761561a292b7461d0df1ab4da26c"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q2/TerminalNode.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/07_2023-2_Q2_【工厂模式与决策树】_蜘蛛分类器工厂/TerminalNode.java",
+      "sha256": "4aad3a4e238ed78e829c93c0f8783e6bfb454288e6158fb5d1ef96002da00feb"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q2/readme_Q2.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/07_2023-2_Q2_【工厂模式与决策树】_蜘蛛分类器工厂/readme_Q2.md",
+      "sha256": "85a026ad569d09920df5230488b900aedcc44758bca6f2df7028e87eef1065c8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q3/UML_Example_PenguinologistClass.png",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/08_2023-2_Q3_【UML分析_XML等格式设计】_多格式读取设计与UML_SOLID分析/UML_Example_PenguinologistClass.png",
+      "sha256": "8d036818c8f19767010844120ab90f07ecebaa15d56023638ba8a26f947ab963"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q3/UML_Q3.png",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/08_2023-2_Q3_【UML分析_XML等格式设计】_多格式读取设计与UML_SOLID分析/UML_Q3.png",
+      "sha256": "9ec5a05a1d076bde59580fdfca6c52f70b55e6e9aac973d071ee2046b5cab9f7"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q3/answer_Q3.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/08_2023-2_Q3_【UML分析_XML等格式设计】_多格式读取设计与UML_SOLID分析/answer_Q3.md",
+      "sha256": "fc3ced053d3d5802f5af43638ec9ba15d1d2be654544cd8f5e3dc92ef2d3ad40"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-2/src/Q3/readme_Q3.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/08_2023-2_Q3_【UML分析_XML等格式设计】_多格式读取设计与UML_SOLID分析/readme_Q3.md",
+      "sha256": "f2f80f621ba8974cd9197351de11ef188996876d94305ee675dcb8da7faa792a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/EscapedState.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/EscapedState.java",
+      "sha256": "4fdd2fdff199449496961d51555ad32a15c7a1bf1a6b7042ba3e91db4d3b0a17"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/HelpState.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/HelpState.java",
+      "sha256": "3a1e3150ccb98c1dc8bebdf22c18bf3fe765f5530e77416885b5cd5707c7e8a8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/InProgressState.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/InProgressState.java",
+      "sha256": "abccc9b79e228563c04543f09b3b5417c3ada596a9c261bdbf7284aa8200fcea"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/Observer.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/Observer.java",
+      "sha256": "f60f28a915925001c2dc1c2abf9a43e33a7cfdca3bb39fcc3ad1d9a01048d99c"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/ObserverTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/ObserverTest.java",
+      "sha256": "891a537968c9475218ab36aaa45c8d3b29dcb528df05aa1821ebdc2002147314"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/Participant.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/Participant.java",
+      "sha256": "3eeb2da8ad67275d8990636127e8c37c865081b48c371db8f163a59fd831633e"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/ParticipantState.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/ParticipantState.java",
+      "sha256": "17e622df37e05c6c785f562d1db50f9e423bf6647cefec737aadffd8aa1b6392"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/ParticipantTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/ParticipantTest.java",
+      "sha256": "cabf3aedfac76651c434ddd0bf6b24158de1b0f88489488f440b98aef084ee34"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/Q1README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/Q1README.md",
+      "sha256": "9ac64ab5e345c7714ae2fbcde4d893cbde56f04faa5cddf4a4e77b20c34994bb"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/Riddle.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/Riddle.java",
+      "sha256": "2548b59eec2bc5eadcab4c8621ba2e33a039c4bb3d834c285c46d407c8beed00"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/RiddleCheckAnswerTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/RiddleCheckAnswerTest.java",
+      "sha256": "d88ccc12db212f41a3864386cc3caab8746093c315effcc5a0981d1cfebfce67"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/RiddleException.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/RiddleException.java",
+      "sha256": "7be9fb61a0bbbd86fd22243f3d022f999c60d2116fef03dadcbd2ef191a264bb"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q1/UML.png",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/09_2023-1_Q1_【UML读图编程】_密室逃脱状态与观察者模式/UML.png",
+      "sha256": "d45c30bb0a75d3be2ed244307651abb55dbc1fa3a9ddbcb7cc366c445a8cc501"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q3/Q3README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/Q3README.md",
+      "sha256": "fb4779d584ae431d2a8de9dde3488b5055fd2d82d446a52b411c3abc00374436"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q3/Q3_answer.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/Q3_answer.md",
+      "sha256": "8151e03ed0a0626006eaa94d5e2eb9de52e77d0ccbc62bb92b9d4a9ad2a92edd"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/ListElementsTree.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/ListElementsTree.java",
+      "sha256": "2714fe0119e7d9e4bdef84c168486375e71aea1e6933843e63de5210d8671fac"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/ListElementsTreeTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/ListElementsTreeTest.java",
+      "sha256": "4963b941fe490cb6eed43fd62d1d86871164637488bfc20bc3f503296c77550d"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDFileReader.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDFileReader.java",
+      "sha256": "3ca4e416608e13bd2ceb96deea470621b72a8e4dda311a38db7ea382aeab0b43"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDFileReaderTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDFileReaderTest.java",
+      "sha256": "6ccb0d0eec18fef6d33cb281668396fd1db252fcbb62fe80c2cd3e3b35d997cc"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDParser.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDParser.java",
+      "sha256": "e57dc837f85c8236da55953fbeb811e58d7ee97d8a0fd3397412985c04c8e85c"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDToken.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDToken.java",
+      "sha256": "ced148a48f95f7141081af5aa16fc4e6885652d4067d18ba69faba8a24197269"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTokenType.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDTokenType.java",
+      "sha256": "207c5203b3aac5b15aa9e6c06f32cd2d23913082517bf9689d9fe45482fc02b8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTokenizer.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDTokenizer.java",
+      "sha256": "ab1f5614aa22a9196b5054e3ffba8886bf25b3916fa16b503a430cc3d72b0ca9"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTokenizerTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDTokenizerTest.java",
+      "sha256": "de4f61fd163816cda076adbe3df11e8315b9b4b0dd8a8c89547aeecfc00ce29a"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTree_Example.png",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDTree_Example.png",
+      "sha256": "3e80beac1a833b59f11ed6a8b9324fded6eb8a6314ccfa528615a2ba791534c3"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/MDTree_Example_Walk.png",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/MDTree_Example_Walk.png",
+      "sha256": "54470d3306f31a338a84ede3e4bd36d53ba2bb0e63f06b2a7bf3a3690ca40fc8"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/Q2README.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/Q2README.md",
+      "sha256": "c45701c97d95e3fc0a054aa2fee2f50232088f254f6b0a4782f32c0719248a62"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data0A.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/data/data0A.md",
+      "sha256": "7b40b222488155dacf9d5cb286fe4a78b549cfffa552e990cabf4f91499aeca0"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data0B.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/data/data0B.md",
+      "sha256": "2e3f7131a04bede32098c1d69af930995fa376276738d282c4c1ca1126de8933"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data1.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/data/data1.md",
+      "sha256": "5e579c1e95dddee89b50031dd206934a735495efecd8d7eeac1038b028faac7f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data2.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/data/data2.md",
+      "sha256": "33e0cce56f4e89d5433119b11532ffcc6e5e6cfb1caf2a2fd102448977731281"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2023-1/Q2/data/data3.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/10_2023-1_Q3_【SOLID重构】_Markdown元素SOLID重构/关联材料_Q2/data/data3.md",
+      "sha256": "09167013f463e551f85b06942014b2fc624be6da00fe0806fb82b220c23b8712"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/Character.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/Character.java",
+      "sha256": "7d72a368dddca6c7380dfefb7de59b4c79158543a9bb28230fa9aa1bd634cc30"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/Constants.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/Constants.java",
+      "sha256": "b15a39b8e45c83ac9f2d465f17fc6393e180baad7e3c3daa8cacc7634124115f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/ExceptionTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/ExceptionTest.java",
+      "sha256": "5623589f02d1b949c34283162dbca9a5087ab7037d225a2983c9ea7d871f1e3f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/Graph.pdf",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/Graph.pdf",
+      "sha256": "0ff937d84a655559345a65b61bfb48f67f20629eb8458acf0179b4859c2622ad"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/Key.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/Key.java",
+      "sha256": "fc413b8ba1a3ad66aa443534ddc728669fe43ca6f46289f129c3cb4c0abdb8d7"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/State.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/State.java",
+      "sha256": "49ebdc25258b33de1c35422d60c14a1a1ff3c3e70241c82a746a9499b533bd27"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/StateTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/StateTest.java",
+      "sha256": "31185f8d970a531d9632446b4f4d9b763010b6c11e8b8468c168cc85f64a046d"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/XMLProcessor.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/XMLProcessor.java",
+      "sha256": "54ba5b0380e8171665100e7d6e15f3d875d2ba21467dd9eab78f5bfe9aff0289"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/example.xml",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/example.xml",
+      "sha256": "2fd3a539a74b0cf7917641882abd2dd9fd7c9712cd8bcf036286694044342c41"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/exceptions/NullCharacterException.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/exceptions/NullCharacterException.java",
+      "sha256": "f3419ca9d12d0f8641d021fa86ef9354fc5c2b3d4220e3afab1b3c12573ee0b5"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/exceptions/NullKeyEventException.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/exceptions/NullKeyEventException.java",
+      "sha256": "9cb5171d2972de76d4acd0616b2c39340fd69a942fe4246fba0645cb6c337d72"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q1/readme.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/11_2022-1_Q1_【状态图与XML读写】_角色状态与单例模式/readme.md",
+      "sha256": "185959c0607d4f523605c239e2639f712f7204f46346522ebeaed72430c60247"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/CompanyA.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/CompanyA.java",
+      "sha256": "db603d9b4bddc18577aabdd1cc1137e89b4699b9b142e27c4bd0bcc4e134f375"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/CompanyB.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/CompanyB.java",
+      "sha256": "eec5ddefa84c6f8d4b8ed852ceeec5d5623406d34899217716728149289cd82f"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/ExpressCompany.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/ExpressCompany.java",
+      "sha256": "076623d6ddfefc6134c325eb94c1c87aa2e54aeb9b218d94c32811cced18d426"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/IllegalParcelItemException.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/IllegalParcelItemException.java",
+      "sha256": "d834cf61ab5e240a7a164f36dec01230b4dc729d4643eddb4425caaa60884b77"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/ItemType.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/ItemType.java",
+      "sha256": "ae6f8d726e56fc73b8ed731866aa6e2a9585c11e3db19bee9f844939a7dc6cdb"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/Parcel.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/Parcel.java",
+      "sha256": "56c00b784bf54fa9a657fceaf28c9f16000409a4a50cc435b2492a3e9c670d2c"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/ParcelHandler.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/ParcelHandler.java",
+      "sha256": "d1f434f01752a2fda29eaf30a05d197a6b3acf792c53a08fc4de16de25180875"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/ParcelTest.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/ParcelTest.java",
+      "sha256": "3e76f0f617dfb5f763123e6391176d21520bd0c6ebb5db253b25af9309d904ff"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/Point.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/Point.java",
+      "sha256": "085d646067d1a470d3feef96740c711d4725ba9913ed633e3fc700ce024d2a3d"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/Quote.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/Quote.java",
+      "sha256": "d032c0df6314daf85e0e5d0316397887eebdaeb808d1c8234911db22c60b8dcb"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/QuoteCalculator.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/QuoteCalculator.java",
+      "sha256": "071facc318de6ddd1a469edfb8f0fcfd88db85c42366da2a83a2668656eacb7b"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q2/readme.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/12_2022-1_Q2_【设计模式与报价计算】_快递报价策略设计/readme.md",
+      "sha256": "21762d5aa61a1a629c877f1a09a3dd1012dc4fbbaec9f3a806fac27b1df85349"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q4/Add.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/13_2022-1_Q4_【设计重构开放题】_计算器扩展与重构/Add.java",
+      "sha256": "49c5fecfc44eb320e95341c300c9754863b1c2c575a86f1d6eb7d63dd4803719"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q4/Client.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/13_2022-1_Q4_【设计重构开放题】_计算器扩展与重构/Client.java",
+      "sha256": "0b926fca9b5927eb56b431a94235993e2a763a8643b41bd79e31bdf3c1fbc09d"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q4/Divide.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/13_2022-1_Q4_【设计重构开放题】_计算器扩展与重构/Divide.java",
+      "sha256": "f13e19a0e0e18a79ef9c776ab87645b809fdc8b7b7a5b00d1b35a6e130f62794"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q4/Exponentiate.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/13_2022-1_Q4_【设计重构开放题】_计算器扩展与重构/Exponentiate.java",
+      "sha256": "2c7de2c7034df982e5e90efceb1806a52822b961431f55a0a15ebd979513f541"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q4/Multiply.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/13_2022-1_Q4_【设计重构开放题】_计算器扩展与重构/Multiply.java",
+      "sha256": "8908e2e144670db49acf13eda11b38773dbe56e7cb7e40bb160ae86004df37f7"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q4/Subtract.java",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/13_2022-1_Q4_【设计重构开放题】_计算器扩展与重构/Subtract.java",
+      "sha256": "63140828c893d392d0bae2e10f6624e04f340a572c9daa548ec44bc8955a459b"
+    },
+    {
+      "source": "exam-practice-questions/past-exams/2022-1/q4/readme.md",
+      "destination": "2真题 按题型/4设计模式和UML题目 汇总/13_2022-1_Q4_【设计重构开放题】_计算器扩展与重构/readme.md",
+      "sha256": "822f25e0e81a93eb9aedd685d3ff33456e11183bc3922f2eea1e8be2fb24d319"
+    }
+  ]
+}
